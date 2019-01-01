@@ -1,2 +1,1 @@
-# Cartoon-Hero
-First website
+<h1>My first website</h1>
